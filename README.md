@@ -19,11 +19,12 @@ I'm Chamindu Siriwardhana, a dedicated and innovative developer passionate about
 ## ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chamindu-siriwardhana/) 
 ---
 [![](https://visitcount.itsvg.in/api?id=chamin98&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chamindu-siriwardhana/) 
+
 </div>
 Thanks for visiting my profile! Let's connect and build something amazing! 🌟
 
