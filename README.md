@@ -2,7 +2,7 @@
 I'm Chamindu Siriwardhana, a dedicated and innovative developer passionate about crafting efficient and intuitive applications. With a solid foundation in various programming languages and frameworks, I thrive on solving complex problems and bringing creative solutions to life.🚀<br><br>My journey in technology has been driven by a relentless curiosity and a desire to learn and grow continuously. Whether diving into the latest tech trends or mastering new tools, I am always eager to expand my skill set and take on new challenges.🌱<br><br>I'm excited to collaborate with like-minded individuals and contribute to impactful projects. Let's connect and create something amazing together!🤝<br>
 
 
-## 🌐 Socials:
+## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chamindu-siriwardhana/) 
 
 # 💻 Tech Stack:
