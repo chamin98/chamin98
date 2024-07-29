@@ -16,8 +16,8 @@ I'm Chamindu Siriwardhana, a dedicated and innovative developer passionate about
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chamin98&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## ✍️ 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!--## ✍️ 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chamindu-siriwardhana/) 
